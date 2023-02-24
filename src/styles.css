@@ -1,0 +1,31 @@
+.cuadro{
+    background-color: #DEC5E3;
+    text-align: center;
+}
+.titulo{
+    text-align: center;
+}
+.boton1{
+    border: none;
+    border-radius: 9px;
+    padding: 5px 20px;
+    margin: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.boton2{
+    border: none;
+    border-radius: 9px;
+    padding: 5px 20px;
+    margin: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+#texto{
+    width: 350px;
+    height: 20px;
+    border-radius: 9px;
+}
+#select{
+    border-radius: 9px;
+}
